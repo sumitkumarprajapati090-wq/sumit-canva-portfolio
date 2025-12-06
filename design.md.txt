@@ -1,0 +1,47 @@
+Design Philosophy for Sumit Kumar Prajapati Portfolio
+Design Philosophy
+Premium Professional Aesthetic: Clean, fast, results-driven, and trustworthy design language that immediately communicates expertise and reliability.
+Color Palette
+Primary: Deep charcoal (#1a1a1a) and crisp white (#ffffff)
+Accent: Warm gold (#f59e0b) for CTAs and highlights
+Secondary: Soft gray (#6b7280) for supporting text
+Success: Emerald (#10b981) for positive actions
+Background: Consistent light gray (#f8fafc) throughout
+Typography
+Display Font: "Inter" - Modern, professional sans-serif for headings
+Body Font: "Inter" - Consistent typography for readability
+Hierarchy: Bold weights for impact, regular for content
+Sizing: Large hero text (3rem+), medium section headers (2rem), readable body text (1rem)
+Visual Language
+Minimalist Approach: Clean layouts with generous white space
+Professional Imagery: High-quality portfolio samples and abstract AI visuals
+Geometric Elements: Subtle grid patterns and clean lines
+Trust Indicators: Client testimonials, project counts, quality badges
+Visual Effects & Styling
+Used Libraries
+Anime.js: Smooth micro-interactions and calculator animations
+ECharts.js: Professional data visualization for pricing
+Splide.js: Portfolio image carousels and testimonials
+Typed.js: Dynamic text effects in hero section
+Splitting.js: Text reveal animations
+p5.js: Subtle background particle effects
+Pixi.js: Interactive visual elements
+Animation Strategy
+Entrance Animations: Subtle fade-ins and slide-ups on scroll
+Hover Effects: 3D transforms on portfolio cards and buttons
+Calculator: Real-time price updates with smooth transitions
+Loading States: Professional skeleton screens and progress indicators
+Header Effect
+Gradient Background: Subtle animated gradient with AI-inspired patterns
+Floating Elements: Geometric shapes that respond to mouse movement
+Parallax Scrolling: Depth effect on hero section
+Interactive Elements
+Button Hover: Color morphing and subtle shadow expansion
+Card Effects: Lift and tilt on hover with shadow depth
+Form Focus: Smooth border transitions and input highlighting
+Calculator: Dynamic price display with counting animations
+Mobile Optimization
+Touch Interactions: Larger tap targets and swipe gestures
+Responsive Typography: Fluid scaling across devices
+Performance: Optimized animations for mobile performance
+Accessibility: High contrast ratios and keyboard navigation
